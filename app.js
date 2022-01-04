@@ -17,8 +17,7 @@ let config = {
         "Sec-Fetch-Mode": "navigate",
         "Sec-Fetch-Site": "cross-site",
         "Sec-Fetch-User": "?1",
-        "Connection": "keep-alive",
-        "Cookie": "ips4_device_key=bda2e1028669cb940290d94f22fd0018; ips4_notificationMenuShown=1640208455431; ips4_ipsTimezone=Europe/Ljubljana; ips4_hasJS=true; ips4_IPSSessionFront=ppqitv910octutvemu115h0v7i; ips4_ipsTimezone=Europe/Ljubljana; ips4_device_key=717be2ff61d0e22e2e326fda525c0521; ips4_hasJS=true; ips4_member_id=36271; ips4_login_key=3c838aa593bc2c9e4f9e9a1e4540d414; ips4_loggedIn=1640297183"
+        "Connection": "keep-alive"
     }
 }
 
